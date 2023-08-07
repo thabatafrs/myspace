@@ -121,7 +121,7 @@ nav .search-bar input[type="search"] {
     width: 30vw;
     margin-left: 1rem;
     font-size: 0.9rem;
-    color: var(--color-dark);
+    color: var(--color-gray);
 }
 
 nav .search-bar input[type="search"]::placeholder {
@@ -329,7 +329,7 @@ main .container .left .profile {
     width: 100%;
     padding-left: 1rem;
     background: transparent;
-    color: var(--color-dark);
+    color: var(--color-gray);
     margin-right: 1rem;
 }
 
