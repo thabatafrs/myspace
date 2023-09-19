@@ -45,7 +45,7 @@ html {
 
 body {
     font-family: "Poppins", sans-serif;
-    color: var(--color-gray);
+    color: var(--color-black);
     background: var(--color-light);
     overflow-x: hidden;
 }
